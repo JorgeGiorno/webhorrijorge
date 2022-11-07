@@ -1,0 +1,182 @@
+	body {
+		font-family: "Georgia";
+	}
+	
+	#icon {
+		float:left;
+		margin-left:-30px;
+		margin-right:10px;
+		margin-top:8px;
+	}
+	
+	#main {
+		width:50%;
+		margin-top:-15px;
+		text-align:justify;
+	}
+	
+	#footing {
+		display:block;
+		background-color:#74ac00;
+		color: white;
+		padding: 1px 12px;
+		text-decoration: none;
+		margin-bottom:-8px;
+		margin-left:-17px;
+		list-style-type: none;
+		width:100%;
+	}
+
+	table, th, td {
+		border:solid black 3px;
+		height:50px;
+		text-align:center;
+		border-color:solid black;
+		border-collapse:collapse;
+		margin-left:90px;
+	}
+	
+	#image1	{
+		width:300px;
+		margin-left:850px;
+		margin-top:-1500px;
+		border:7px solid #74ac00;
+	}
+	
+	#text1	{
+		margin-left:850px;
+		margin-top:-1183px;
+	}
+	
+	#image2	{
+		width:300px;
+		margin-left:850px;
+		margin-top:-900px;
+		border:7px solid #74ac00;
+	}
+	
+	#text2	{
+		margin-left:850px;
+		margin-top:-620px;
+	}
+	
+	#image3	{
+		width:300px;
+		margin-left:850px;
+		margin-top:-450px;
+		border:7px solid #74ac00;
+	}
+	
+	#text3	{
+		margin-left:850px;
+		margin-top:-134px;
+	}
+	
+	#image4	{
+		width:300px;
+		margin-left:850px;
+		margin-top:-1350px;
+		border:7px solid #74ac00;
+	}
+	
+	#text4	{
+		margin-left:850px;
+		margin-top:-1100px;
+	}
+	
+	#image5	{
+		width:300px;
+		margin-left:850px;
+		margin-top:-1000px;
+		border:7px solid #74ac00;
+	}
+	
+	#text5	{
+		margin-left:850px;
+		margin-top:-683px;
+	}
+	
+	#image6	{
+		width:300px;
+		margin-left:850px;
+		margin-top:-580px;
+		border:7px solid #74ac00;
+	}
+	
+	#text6	{
+		margin-left:850px;
+		margin-top:-115px;
+	}
+
+	#image7	{
+		width:300px;
+		margin-left:850px;
+		margin-top:-1575px;
+		border:7px solid #74ac00;
+	}
+	
+	#text7	{
+		margin-left:850px;
+		margin-top:-1225px;
+	}
+	
+	#image8	{
+		width:300px;
+		margin-left:850px;
+		margin-top:-1000px;
+		border:7px solid #74ac00;
+	}
+	
+	#text8	{
+		margin-left:850px;
+		margin-top:-758px;
+	}
+	
+	#image9	{
+		width:300px;
+		margin-left:850px;
+		margin-top:-525px;
+		border:7px solid #74ac00;
+	}
+	
+	#text9	{
+		margin-left:850px;
+		margin-top:-108px;
+	}
+	
+	#body {
+		margin-left:15px;
+	}
+	
+	#line {
+		width:700px;
+		height:2px;
+		float:left;
+		color:#74ac00;
+		background-color:black;
+		border:0;
+		margin-bottom:35px;
+	}
+	
+	ul {
+		list-style-type: none;
+		width: 100%;
+		background-color: #74ac00;
+		top:0;
+		left:0;
+		position:fixed;
+	}
+
+	li a {
+		display: block;
+		color: white;
+		padding: 14px 16px;
+		text-decoration: none;
+		text-align:center;
+		float: left;
+	}
+
+	li a:hover {
+		background: black;
+		color: white;
+	}
